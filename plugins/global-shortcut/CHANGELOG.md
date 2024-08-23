@@ -1,5 +1,9 @@
 # Changelog
 
+## \[2.0.0-rc.2]
+
+- [`3c52f30e`](https://github.com/tauri-apps/plugins-workspace/commit/3c52f30ea4ec29c51f7021aa7871614d72e43258) ([#1665](https://github.com/tauri-apps/plugins-workspace/pull/1665) by [@amrbashir](https://github.com/tauri-apps/plugins-workspace/../../amrbashir)) Updated `global-hotkey` crate dependency to `0.6`
+
 ## \[2.0.0-rc.1]
 
 - [`2c00c029`](https://github.com/tauri-apps/plugins-workspace/commit/2c00c0292c9127b81567de46691e8c0f73557261) ([#1630](https://github.com/tauri-apps/plugins-workspace/pull/1630) by [@FabianLars](https://github.com/tauri-apps/plugins-workspace/../../FabianLars)) Fixed an issue that caused multi-word IIFE names to not be formatted correctly. For example the `barcode-scanner` was defined as `window.__TAURI_PLUGIN_CLIPBOARDMANAGER__` instead of `window.__TAURI_PLUGIN_CLIPBOARD_MANAGER__`.

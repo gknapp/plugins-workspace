@@ -2,6 +2,12 @@
 
 ## \[2.0.0-rc.1]
 
+### feat
+
+- [`448846b8`](https://github.com/tauri-apps/plugins-workspace/commit/448846b834d23df6e7c5dc66c5dd9aa0cb01846d) ([#1658](https://github.com/tauri-apps/plugins-workspace/pull/1658) by [@mikoto2000](https://github.com/tauri-apps/plugins-workspace/../../mikoto2000)) Resolve `content://` path URIs on Android.
+
+## \[2.0.0-rc.1]
+
 - [`5f689902`](https://github.com/tauri-apps/plugins-workspace/commit/5f68990297f2cefac4220649a469adb7fa94fe1b) ([#1645](https://github.com/tauri-apps/plugins-workspace/pull/1645) by [@lucasfernog](https://github.com/tauri-apps/plugins-workspace/../../lucasfernog)) Update documentation.
 
 ## \[2.0.0-rc.0]

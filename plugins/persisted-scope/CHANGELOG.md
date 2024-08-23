@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.0-rc.1]
+
+### Dependencies
+
+- Upgraded to `fs@2.0.0-rc.1`
+
 ## \[2.0.0-rc.0]
 
 - [`9887d1`](https://github.com/tauri-apps/plugins-workspace/commit/9887d14bd0e971c4c0f5c1188fc4005d3fc2e29e) Update to tauri RC.

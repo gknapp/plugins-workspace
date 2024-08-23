@@ -1,5 +1,14 @@
 # Changelog
 
+## \[2.0.0-rc.2]
+
+### Dependencies
+
+- Upgraded to `dialog@2.0.0-rc.3`
+- Upgraded to `global-shortcut@2.0.0-rc.2`
+- Upgraded to `fs@2.0.0-rc.1`
+- Upgraded to `http@2.0.0-rc.1`
+
 ## \[2.0.0-rc.1]
 
 ### Dependencies
